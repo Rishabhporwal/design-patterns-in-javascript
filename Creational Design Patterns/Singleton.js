@@ -5,8 +5,8 @@
 // There should be only 1 object of everyclass and can be reused everywhere
 
 // things to remeber:
-// 1. Early Initialization
-// 2. Lazy Initialization
+// 1. Eager Initialization: Create singleton a soon as class is loaded 
+// 2. Lazy Initialization: Singleton is created when it is first required
 // 3. Thread Safe
 // 4. Double Checking
 
